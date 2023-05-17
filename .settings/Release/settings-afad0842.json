@@ -7,6 +7,6 @@
   "UiPath.Excel.Activities.ExcelProcessScope.ExistingProcessAction": "None",
   "UiPath.Excel.Activities.ExcelProcessScope.FileConflictResolution": "ThrowException",
   "UiPath.Excel.Activities.ExcelProcessScope.MacroSettings": "EnableAll",
-  "UiPath.Excel.Activities.UseExcelFile.ReadFormatting": "Default",
+  "UiPath.Excel.Activities.UseExcelFile.ReadFormatting": "RawValue",
   "UiPath.Excel.Activities.ExcelAutoComplete.ExcelAutoCompleteType": "Default"
 }
